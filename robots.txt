@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kotohhoshi.tmm1.net/sitemap.xml
